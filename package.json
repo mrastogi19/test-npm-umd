@@ -1,0 +1,19 @@
+{
+  "name": "test-npm-umd",
+  "version": "1.0.0",
+  "description": "testing npm support",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mrastogi19/test-npm-umd.git"
+  },
+  "author": "Mayank",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mrastogi19/test-npm-umd/issues"
+  },
+  "homepage": "https://github.com/mrastogi19/test-npm-umd#readme"
+}
