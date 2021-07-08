@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/mrastogi19/test-npm-umd/issues"
   },
-  "homepage": "https://github.com/mrastogi19/test-npm-umd#readme"
+  "homepage": "https://github.com/mrastogi19/test-npm-umd#readme",
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/"
+  }
 }
