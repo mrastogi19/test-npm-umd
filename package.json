@@ -1,5 +1,5 @@
 {
-  "name": "test-npm-umd",
+  "name": "@mrastogi19/test-npm-umd",
   "version": "1.0.0",
   "description": "testing npm support",
   "main": "index.js",
