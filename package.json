@@ -1,6 +1,6 @@
 {
   "name": "@mrastogi19/test-npm-umd",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "testing npm support",
   "main": "index.js",
   "scripts": {
